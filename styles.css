@@ -95,8 +95,9 @@ hr {
 	vertical-align: -6px;
 }
 p {
-	font-size: 14px;
-	line-height: 1.25em;
+	font-size: 12px;
+	line-height: 1.4em;
+	
 }
 .caption_justify {
 	font-size: 16px;
@@ -107,7 +108,7 @@ p {
 	margin-bottom: 64px;
 }
 .caption {
-	font-size: 14px;
+	font-size: 12px;
 	/*font-style: italic;*/
 	color: #666;
 	text-align: center;
@@ -115,7 +116,7 @@ p {
 	margin-bottom: 64px;
 }
 .caption_inline {
-	font-size: 16px;
+	font-size: 12px;
 	/*font-style: italic;*/
 	color: #666;
 	text-align: center;
@@ -123,7 +124,7 @@ p {
 	margin-bottom: 0px;
 }
 .caption_bold {
-	font-size: 16px;
+	font-size: 12px;
 	/*font-style: italic;*/
 	color: #666;
 	text-align: center;
