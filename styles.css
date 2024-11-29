@@ -11,9 +11,6 @@ h1 {
 	line-height: 1.15em;
 }
 
-h2 {
-	font-size: 1.75em;
-}
 a:link,a:visited {
 	color: #5F688E;
 	text-decoration: none;
@@ -28,9 +25,11 @@ h1 {
 	font-size: 30px;
 	font-weight: 300;
 }
-h2, h3 {
+h2, 
+
+h3 {
 	font-size: 16px;
-	font-weight: 600;
+	font-weight: 300;
 	margin: 16px 0px 4px 0px;
 }
 .paper-title {
